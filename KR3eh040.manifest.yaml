@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh040_000.yaml, hash: 'sha256:b5badb80bb8114abaaae9c9594a4fbccf9e62d049d1330b01d3028248744841e'}
+  - {seq: 0, filename: KR3eh040_000.yaml, hash: 'sha256:a45809b125f9221bf96bf0a31b5266192d61c94d916467612036b8bdce422888'}
   - {seq: 1, filename: KR3eh040_001.yaml, hash: 'sha256:979b6f334f018644ab79d47b441ec88699b942bd54fce259658167a0d5cbc080'}
   - {seq: 2, filename: KR3eh040_002.yaml, hash: 'sha256:c03f8e01a05074443736a41dbd24dd79797e29f65a7fa9fcaf18c61a3d77a7a2'}
   - {seq: 3, filename: KR3eh040_003.yaml, hash: 'sha256:ce8c1133269796d40ccef989474f7a84018f322a76809a2f954e477c27cb5490'}
   - {seq: 4, filename: KR3eh040_004.yaml, hash: 'sha256:0d19f5dceea29865893e9d2e25a8bce76eb9f5a470c11377e3cb56ac447e738b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh040_000.markers.yaml, hash: 'sha256:d6b4c70c39fc94579596084f6666d06a093ba4b8bcd5d084c9b9096901fe24f3'}
+  - {seq: 0, role: markers, filename: assets/KR3eh040_000.markers.yaml, hash: 'sha256:aa794f29bc90d3353d34357714716f749683fd6c0c52ab5f3ca7d7663cf92162'}
   - {seq: 1, role: markers, filename: assets/KR3eh040_001.markers.yaml, hash: 'sha256:f94a95381b5be774736dbbf34fedfbda82040897ed2f8b65cc61a6456db4fd7b'}
   - {seq: 2, role: markers, filename: assets/KR3eh040_002.markers.yaml, hash: 'sha256:e9cb54be0d6098589a4c29d5f32e0dcf20752bad77e6d10f682d9713f9a8f418'}
   - {seq: 3, role: markers, filename: assets/KR3eh040_003.markers.yaml, hash: 'sha256:697d3874beb686e6ebf29136b354d4a7943fdde75163dbdbef0644fe9641175f'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh040_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 371
   label: 序
@@ -2479,7 +2479,7 @@ table_of_contents:
   label: 靜坐功夫
   type: section
   level: 2
-hash: sha256:ace0e2c8ebf36358a59313b9f080ab11884be8e63022f9a49a908f8fc435ea31
+hash: sha256:c7ac5e44d34b475b31097a8055672c8bd221197b1b51a9a76365c251faf33922
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
